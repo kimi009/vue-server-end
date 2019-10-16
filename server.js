@@ -9,6 +9,6 @@ let server = http.createServer((req, res) => {
   }
 })
 
-server.listen(3000, () => {
+server.listen(3009, () => {
   console.log('服务启动成功')
 })
